@@ -1,0 +1,4 @@
+What is NoEscape.exe virus?
+
+The new NoEscape ransomware operation is believed to be a rebranding of Avaddon, with the ransomware gang shutting down and releasing its decryption key in 2021. NoEscape was launched in June 2023 when it began to carry out double extortion attacks against businesses.
+It will change your password and username, there are a lot of unknown files on the desktop, you click on a random software and a few lines of English text will appear, and you will have a blue screen within ten seconds of replying Yes or No.
